@@ -1,7 +1,7 @@
-# NAMA: Hanum Hawa Khumaira Awisno
-# NIM: 20240801099
+NAMA: Hanum Hawa Khumaira Awisno
+NIM: 20240801099
 
-# MODUL 5 (Aplikasi Pencatatan Pengeluaran — Flutter dan SQLite)
+# Modul 5 — Aplikasi Pencatatan Pengeluaran — Flutter dan SQLite
 
 ## 1. Yang Dipelajari
 
