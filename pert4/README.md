@@ -3,7 +3,7 @@ NIM: 20240801099
 
 # Modul 4 — Flutter Fundamental: Future, API, dan FutureBuilder
 
-## 1. Yang Dipelajari?
+## 1. Yang Dipelajari
 
 Pada praktikum ini, gue belajar membuat aplikasi Flutter yang mengambil data dari REST API, mengolah data JSON menjadi objek Dart, lalu menampilkannya ke UI.
 
