@@ -5,7 +5,7 @@ NIM: 20240801099
 
 ## 1. Yang Dipelajari
 
-Pada praktikum ini, gue belajar membuat aplikasi Flutter yang mengambil data dari REST API, mengolah data JSON menjadi objek Dart, lalu menampilkannya ke UI.
+Pada praktikum ini, saya belajar membuat aplikasi Flutter yang mengambil data dari REST API, mengolah data JSON menjadi objek Dart, lalu menampilkannya ke UI.
 
 Materi utama:
 - REST API dan HTTP GET
