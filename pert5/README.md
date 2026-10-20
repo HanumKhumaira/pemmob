@@ -5,7 +5,7 @@ NIM: 20240801099
 
 ## 1. Yang Dipelajari
 
-Pada praktikum ini, gue belajar membuat aplikasi Flutter untuk mencatat dan mengelola pengeluaran menggunakan database lokal. Aplikasi dilengkapi fitur tambah, edit, hapus, pencarian, pengurutan data, serta pengaturan tema.
+Pada praktikum ini, saya belajar membuat aplikasi Flutter untuk mencatat dan mengelola pengeluaran menggunakan database lokal. Aplikasi dilengkapi fitur tambah, edit, hapus, pencarian, pengurutan data, serta pengaturan tema.
 
 Materi utama:
 
