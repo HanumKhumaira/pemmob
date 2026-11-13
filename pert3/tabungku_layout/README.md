@@ -1,7 +1,6 @@
 
 # TabungKu - Ringkasan Tabungan
 
-## Identitas
 Nama: Hanum Hawa Khumaira Awisno  
 NIM: 20240801099  
 Mata Kuliah: Pemrograman Mobile
