@@ -21,7 +21,11 @@ transaksi dengan data statis.
 4. Buka file lib/main.dart.
 5. Klik tombol Run untuk menjalankan aplikasi.
 
+
 ## Dokumentasi
-Screenshot aplikasi tersimpan dalam folder docs:
-- ponsel.png: Tampilan pada Pixel 8
-- tablet.png: Tampilan pada Small Tablet
+
+### Tampilan pada Pixel 8
+![Tampilan TabungKu di Pixel 8](docs/ponsel.png)
+
+### Tampilan pada Small Tablet
+![Tampilan TabungKu di Small Tablet](docs/tablet.png)
