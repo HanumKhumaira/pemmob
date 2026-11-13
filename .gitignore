@@ -43,3 +43,16 @@ service-account.json
 
 secrets.json
 **/secrets.json
+
+# android khusus tugas tabungku
+!pert3/tabungku_layout/android/
+!pert3/tabungku_layout/android/**
+
+# file hasil build dan konfigurasi lokal tetap diabaikan
+pert3/tabungku_layout/android/.gradle/
+pert3/tabungku_layout/android/build/
+pert3/tabungku_layout/android/app/build/
+pert3/tabungku_layout/android/local.properties
+pert3/tabungku_layout/android/key.properties
+pert3/tabungku_layout/android/**/*.jks
+pert3/tabungku_layout/android/**/*.keystore
